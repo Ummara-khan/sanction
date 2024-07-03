@@ -59,7 +59,3 @@ python manage.py createsuperuser
 ```
 
 
-## Images:
-![alt text](https://i.imgur.com/FvgmEJL.png)
-#
-![alt text](https://i.imgur.com/aWzj44Y.png)
